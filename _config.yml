@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Caesar Chen"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avator.jpg"
   bio              : "Software Engineer @ Microsoft .NET Networking Class Library team."
   location         : "Redmond, WA"
   email            :
