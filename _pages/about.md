@@ -6,4 +6,4 @@ header:
 
 ---
 
-TODO: add about me. Add pic
+Software Engineer @ Microsoft .NET Networking Class Library team.
